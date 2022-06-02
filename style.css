@@ -1,3 +1,7 @@
+
+/*
+body style
+*/
 body {
 width: 1000px;
 margin: auto; 
@@ -5,6 +9,10 @@ font-family: Arial, Helvetica, sans-serif;
 padding: 15px 50px; 
 }
 
+
+/*
+nav bar style
+*/
 .nav-link {
  color: #003366; 
  font-size: 20px;
@@ -15,6 +23,10 @@ padding: 15px 50px;
  padding: 25px;
 }
 
+
+/*
+anchor link style
+*/
 a {
  color: #003366;
 }
@@ -34,6 +46,9 @@ header {
 } 
 */
 
+/*
+image style
+*/
 .portrait {
  max-width: 25%;
  width: 20%;
@@ -46,6 +61,9 @@ header {
  border-style: solid;
 }
 
+/*
+main section style
+*/
 main {
  color: #003366;
  font-size: 15px;
@@ -56,6 +74,9 @@ main {
  margin: auto;
 }
 
+/*
+list style
+*/
 .lists {
  color: #003366;
  width: 150px;
@@ -64,6 +85,9 @@ main {
  text-align: left;
 } 
 
+/*
+footer style
+*/
 footer {
  color: #003366;
  background-color: white;
